@@ -1,0 +1,4 @@
+﻿# Replace OpenAI API key with placeholder
+regex:
+    search: b'sk-proj-[A-Za-z0-9_-]+'
+    replace: b'sk-proj-YOUR_API_KEY_HERE'
